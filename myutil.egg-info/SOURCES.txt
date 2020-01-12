@@ -1,0 +1,5 @@
+setup.cfg
+myutil.egg-info/PKG-INFO
+myutil.egg-info/SOURCES.txt
+myutil.egg-info/dependency_links.txt
+myutil.egg-info/top_level.txt
